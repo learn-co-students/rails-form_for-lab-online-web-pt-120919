@@ -8,7 +8,7 @@
 4. Build RESTFul actions for `new`, `create`, `edit`, and `update`, with the correct routes and route helper urls.
 
 
-## Instructions
+## Instructions 
 
 For this lab you will be extending the functionality of the Flatiron school's student management application by building in the functionality to create and edit school classes. You will build all of the functionality from scratch, including building out the models, views, and controllers for the `SchoolClass` and `Student` resources.
 
